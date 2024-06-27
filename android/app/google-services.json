@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082727336838",
+    "project_id": "whatsapp-abdo-feac3",
+    "storage_bucket": "whatsapp-abdo-feac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082727336838:android:18c03665c4f851076cfa07",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_abdo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEK3ybGnWYIl6pQyyRnbGoRgSJQE-w8F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
